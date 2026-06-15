@@ -8,6 +8,7 @@ public class EvenOrOddNum {
              System.out.println(num+" Number is Even ");
         else
             System.out.println(num+" Number is Odd ");
+        sc.close();
     }
     
 }
