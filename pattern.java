@@ -11,7 +11,7 @@ public class pattern {
             for(int j=1;j<=b;j++){
                 System.out.print("*");
             }
-        System.out.println("\n");
+        System.out.print("\n");
         }
     
     sc.close();
