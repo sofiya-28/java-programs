@@ -4,8 +4,8 @@ public class PassingArrayToMethod {
         System.out.println(X[3]);
         change(X);
         System.out.println(X[2]);
-    }
+    }  
     public static void change(int[] X){
         X[2]=99;
-    }    
+    }                    
 }
